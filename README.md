@@ -52,9 +52,9 @@ After creating the Azure Function in the Azure Portal, we open VSCode and we cre
 
 ![image](https://github.com/luiscoco/AzureFunctions_Deploy_Function_In_VSCode/assets/32194879/e5bcc4ed-0fd3-4cc0-aa62-24a8908c539e)
 
-![image](https://github.com/luiscoco/AzureFunctions_Deploy_Function_In_VSCode/assets/32194879/350c4cb5-911d-44ee-b87a-2f7604ef5155)
+## 3. Azure Function deployment in VSCode
 
-We start the Azure Function deployment:
+![image](https://github.com/luiscoco/AzureFunctions_Deploy_Function_In_VSCode/assets/32194879/350c4cb5-911d-44ee-b87a-2f7604ef5155)
 
 ![image](https://github.com/luiscoco/AzureFunctions_Deploy_Function_In_VSCode/assets/32194879/c14ce9e1-ea1e-4410-a6dd-0402cbc2b900)
 
