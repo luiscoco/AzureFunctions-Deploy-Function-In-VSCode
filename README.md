@@ -1,5 +1,17 @@
 # How to deploy an Azure Function in VSCode
 
+![image](https://github.com/luiscoco/AzureFunctions_Deploy_Function_In_VSCode/assets/32194879/cbf65984-2f0f-4b22-8db7-53ee47c4e68f)
+
+![image](https://github.com/luiscoco/AzureFunctions_Deploy_Function_In_VSCode/assets/32194879/ef570675-131c-4b9f-bfe8-634d13de53a3)
+
+![image](https://github.com/luiscoco/AzureFunctions_Deploy_Function_In_VSCode/assets/32194879/cb4fc803-23c1-40e1-b47a-925a8748f150)
+
+![image](https://github.com/luiscoco/AzureFunctions_Deploy_Function_In_VSCode/assets/32194879/1a3cbdc5-df27-4dac-b2d9-23f7279d3aa1)
+
+![image](https://github.com/luiscoco/AzureFunctions_Deploy_Function_In_VSCode/assets/32194879/a4f67c53-301e-400b-b3e2-2c25bace09f2)
+
+![image](https://github.com/luiscoco/AzureFunctions_Deploy_Function_In_VSCode/assets/32194879/d9b4e714-c44c-4871-8a5b-c7d08d4d98fe)
+
 ![image](https://github.com/luiscoco/AzureFunctions_Deploy_Function_In_VSCode/assets/32194879/8762c15e-ac30-4839-93e7-593d7d0cd374)
 
 ![image](https://github.com/luiscoco/AzureFunctions_Deploy_Function_In_VSCode/assets/32194879/1dacf49a-b1bf-4342-a1e1-390b1bcc450c)
@@ -17,16 +29,3 @@
 ![image](https://github.com/luiscoco/AzureFunctions_Deploy_Function_In_VSCode/assets/32194879/735db19c-db16-4aa7-8c83-1b71badaa2b3)
 
 ![image](https://github.com/luiscoco/AzureFunctions_Deploy_Function_In_VSCode/assets/32194879/19645b26-9e98-426a-8672-bba572778e83)
-
-![image](https://github.com/luiscoco/AzureFunctions_Deploy_Function_In_VSCode/assets/32194879/cbf65984-2f0f-4b22-8db7-53ee47c4e68f)
-
-![image](https://github.com/luiscoco/AzureFunctions_Deploy_Function_In_VSCode/assets/32194879/ef570675-131c-4b9f-bfe8-634d13de53a3)
-
-![image](https://github.com/luiscoco/AzureFunctions_Deploy_Function_In_VSCode/assets/32194879/cb4fc803-23c1-40e1-b47a-925a8748f150)
-
-![image](https://github.com/luiscoco/AzureFunctions_Deploy_Function_In_VSCode/assets/32194879/1a3cbdc5-df27-4dac-b2d9-23f7279d3aa1)
-
-![image](https://github.com/luiscoco/AzureFunctions_Deploy_Function_In_VSCode/assets/32194879/a4f67c53-301e-400b-b3e2-2c25bace09f2)
-
-![image](https://github.com/luiscoco/AzureFunctions_Deploy_Function_In_VSCode/assets/32194879/d9b4e714-c44c-4871-8a5b-c7d08d4d98fe)
-
