@@ -1,2 +1,3 @@
-# AzureFunctions-Deploy-Function-In-VSCode
-AzureFunctions Deploy Function In VSCode
+# How to deploy an Azure Function in VSCode
+
+
