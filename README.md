@@ -20,13 +20,13 @@ We select the operating system, the hosting option and plan:
 
 ![image](https://github.com/luiscoco/AzureFunctions_Deploy_Function_In_VSCode/assets/32194879/d9b4e714-c44c-4871-8a5b-c7d08d4d98fe)
 
-## 2. Create an Azure Function in VSCode
-
-After creating the Azure Function in the Azure Portal, we open VSCode and we create an Azure Function Http triggered: 
-
 ![image](https://github.com/luiscoco/AzureFunctions_Deploy_Function_In_VSCode/assets/32194879/273c09ab-21c8-47ac-8971-e06219ef4b5a)
 
 ![image](https://github.com/luiscoco/AzureFunctions_Deploy_Function_In_VSCode/assets/32194879/ec0a9447-32c6-4e17-b069-4e037c65b993)
+
+## 2. Create an Azure Function in VSCode
+
+After creating the Azure Function in the Azure Portal, we open VSCode and we create an Azure Function Http triggered: 
 
 ![image](https://github.com/luiscoco/AzureFunctions_Deploy_Function_In_VSCode/assets/32194879/8762c15e-ac30-4839-93e7-593d7d0cd374)
 
