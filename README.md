@@ -30,4 +30,12 @@
 
 ![image](https://github.com/luiscoco/AzureFunctions_Deploy_Function_In_VSCode/assets/32194879/735db19c-db16-4aa7-8c83-1b71badaa2b3)
 
-![image](https://github.com/luiscoco/AzureFunctions_Deploy_Function_In_VSCode/assets/32194879/19645b26-9e98-426a-8672-bba572778e83)
+![image](https://github.com/luiscoco/AzureFunctions_Deploy_Function_In_VSCode/assets/32194879/5364433e-da45-42f0-83f2-314ce8121447)
+
+![image](https://github.com/luiscoco/AzureFunctions_Deploy_Function_In_VSCode/assets/32194879/76622f01-36e7-43ac-9270-2f447a8ad3d1)
+
+![image](https://github.com/luiscoco/AzureFunctions_Deploy_Function_In_VSCode/assets/32194879/e5bcc4ed-0fd3-4cc0-aa62-24a8908c539e)
+
+
+
+
