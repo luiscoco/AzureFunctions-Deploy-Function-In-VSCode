@@ -1,5 +1,7 @@
 # How to deploy an Azure Function in VSCode
 
+## 1. Create an Azure Function in Azure Portal
+
 ![image](https://github.com/luiscoco/AzureFunctions_Deploy_Function_In_VSCode/assets/32194879/cbf65984-2f0f-4b22-8db7-53ee47c4e68f)
 
 ![image](https://github.com/luiscoco/AzureFunctions_Deploy_Function_In_VSCode/assets/32194879/ef570675-131c-4b9f-bfe8-634d13de53a3)
