@@ -2,7 +2,9 @@
 
 ## 1. Create an Azure Function in Azure Portal
 
-Login in Azure Portal and navigate to Azure Functions service.
+We login in Azure Portal and navigate to Azure Functions service.
+
+We set the Azure Function name, the runtime stack, version and the deployment region: 
 
 ![image](https://github.com/luiscoco/AzureFunctions_Deploy_Function_In_VSCode/assets/32194879/cbf65984-2f0f-4b22-8db7-53ee47c4e68f)
 
